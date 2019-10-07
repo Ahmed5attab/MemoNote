@@ -6,7 +6,7 @@ iOS mobile application allow you to create, update and delete your notes and att
 XCode 9.2
 Swift 4.0
 
-# Application Sceens:
+# Application Scenes:
 
 ## Home Screen :
 
